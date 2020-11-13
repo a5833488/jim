@@ -31,7 +31,7 @@
         <module>jim-core</module>
         <module>jim-server</module>
         <module>jim-client</module>
-        <module>jim- server-demo</module>
+        <module>jim-server-demo</module>
         <module>jim-client-demo</module>
     </modules>
     <properties>
